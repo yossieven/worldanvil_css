@@ -1,6 +1,6 @@
 @font-face {
- font-family: YOUR FONT NAME;
+ font-family: GreatVictorian-Standard;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/yossieven/worldanvil_css/c033ef5da7fe4fc5d1aa8ee3331067a49ab6ea1e/great-victorian-font.txt) ;
 }
