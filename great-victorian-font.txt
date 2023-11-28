@@ -2,5 +2,5 @@
  font-family: GreatVictorian-Standard;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/yossieven/worldanvil_css/c033ef5da7fe4fc5d1aa8ee3331067a49ab6ea1e/great-victorian-font.txt) ;
+ src: url(https://rawcdn.githack.com/yossieven/worldanvil_css/035d4fa44a1b925aad5d55b679c70a0e7c049058/GREATVICTORIAN-STANDARD.OTF) ;
 }
